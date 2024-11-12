@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4868cf9e-f5a0-45d1-a6b2-d1d39beafa60)
+![image](https://github.com/user-attachments/assets/eb4d6a7b-9f78-41e0-bf10-63365ba99881)
 
 <hr>
 
@@ -11,4 +11,4 @@
 * TypeScript
 
 ## Link:
-https://joao-carmassi.github.io/pesquisa-pousadas/src/index.html
+https://joao-carmassi.github.io/pesquisa-pousadas/
