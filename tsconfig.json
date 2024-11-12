@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "src/js",
+        "noEmitOnError": true,
+        "removeComments": true,
+        "strict": true,
+        "module": "ES6",
+        "target": "ES6"
+    },
+    "include": [
+        "app/**/*"
+    ]
+}

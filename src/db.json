@@ -1,0 +1,190 @@
+{
+  "pousadas": [
+    {
+      "titulo": "Pousada Sol e Lua",
+      "conteudo": "Uma pousada aconchegante no coração da Serra da Mantiqueira, com vista panorâmica.",
+      "categoria": ["wifi", "kids", "pet"],
+      "id": "pousadaSolLua"
+    },
+    {
+      "titulo": "Pousada Montanha Azul",
+      "conteudo": "Com localização privilegiada, oferece trilhas ecológicas e relaxamento em meio à natureza.",
+      "categoria": ["cafe", "wifi", "netflix"],
+      "id": "pousadaMontanhaAzul"
+    },
+    {
+      "titulo": "Pousada Encanto Verde",
+      "conteudo": "Pousada ecológica com ênfase em sustentabilidade e práticas verdes.",
+      "categoria": ["pet", "estacionamento", "cafe"],
+      "id": "pousadaEncantoVerde"
+    },
+    {
+      "titulo": "Pousada Céu Azul",
+      "conteudo": "Com vista deslumbrante para o horizonte, a Pousada Céu Azul oferece um ambiente tranquilo para relaxamento.",
+      "categoria": ["netflix", "kids", "wifi"],
+      "id": "pousadaCeuAzul"
+    },
+    {
+      "titulo": "Pousada Refúgio da Serra",
+      "conteudo": "Pousada charmosa localizada nas montanhas, perfeita para quem busca um refúgio da rotina.",
+      "categoria": ["estacionamento", "cafe", "netflix"],
+      "id": "pousadaRefugioSerra"
+    },
+    {
+      "titulo": "Pousada das Estrelas",
+      "conteudo": "Com uma vista privilegiada do céu estrelado, a pousada oferece noites inesquecíveis.",
+      "categoria": ["wifi", "pet", "kids"],
+      "id": "pousadaEstrelas"
+    },
+    {
+      "titulo": "Pousada Recanto da Paz",
+      "conteudo": "Um refúgio isolado com ambiente tranquilo e muito verde.",
+      "categoria": ["wifi", "ar condicionado", "piscina"],
+      "id": "pousadaRecantoPaz"
+    },
+    {
+      "titulo": "Pousada Jardim Florido",
+      "conteudo": "Pousada rodeada de flores e jardins coloridos para momentos de paz.",
+      "categoria": ["jardim", "cafe", "pet"],
+      "id": "pousadaJardimFlorido"
+    },
+    {
+      "titulo": "Pousada Sol Nascente",
+      "conteudo": "Local ideal para observar o nascer do sol nas montanhas.",
+      "categoria": ["jacuzzi", "wifi", "kids"],
+      "id": "pousadaSolNascente"
+    },
+    {
+      "titulo": "Pousada Mar Azul",
+      "conteudo": "Situada na praia com vista para o mar e muitas atividades aquáticas.",
+      "categoria": ["praia privativa", "wifi", "ar condicionado"],
+      "id": "pousadaMarAzul"
+    },
+    {
+      "titulo": "Pousada Trilha Verde",
+      "conteudo": "Com acesso a trilhas e natureza exuberante para caminhadas.",
+      "categoria": ["trilhas", "wifi", "cafe"],
+      "id": "pousadaTrilhaVerde"
+    },
+    {
+      "titulo": "Pousada Luar do Sertão",
+      "conteudo": "Clima rústico e acolhedor com paisagem rural.",
+      "categoria": ["estacionamento", "cafe", "lareira"],
+      "id": "pousadaLuarSertrao"
+    },
+    {
+      "titulo": "Pousada Horizonte Azul",
+      "conteudo": "Aprecie a beleza do horizonte e o silêncio da natureza.",
+      "categoria": ["wifi", "banheira", "spa"],
+      "id": "pousadaHorizonteAzul"
+    },
+    {
+      "titulo": "Pousada Vila Verde",
+      "conteudo": "Com horta orgânica e restaurante com alimentos frescos.",
+      "categoria": ["horta orgânica", "cafe", "restaurante"],
+      "id": "pousadaVilaVerde"
+    },
+    {
+      "titulo": "Pousada Caminho das Águas",
+      "conteudo": "Ideal para relaxar próximo ao rio e aproveitar a natureza.",
+      "categoria": ["piscina", "kids", "estacionamento"],
+      "id": "pousadaCaminhoAguas"
+    },
+    {
+      "titulo": "Pousada Mirante dos Ventos",
+      "conteudo": "Com uma vista única e noites estreladas para relaxar.",
+      "categoria": ["observatório", "wifi", "cafe"],
+      "id": "pousadaMiranteVentos"
+    },
+    {
+      "titulo": "Pousada Campo Verde",
+      "conteudo": "Experiência rural e sossego no campo com muitos espaços abertos.",
+      "categoria": ["estacionamento", "jardim", "churrasqueira"],
+      "id": "pousadaCampoVerde"
+    },
+    {
+      "titulo": "Pousada Sol Poente",
+      "conteudo": "Ambiente familiar com parquinho para crianças.",
+      "categoria": ["kids", "wifi", "parquinho"],
+      "id": "pousadaSolPoente"
+    },
+    {
+      "titulo": "Pousada Aventura na Mata",
+      "conteudo": "Ideal para aventuras e atividades ao ar livre.",
+      "categoria": ["atividades ao ar livre", "trilhas", "wifi"],
+      "id": "pousadaAventuraMata"
+    },
+    {
+      "titulo": "Pousada Descanso do Vale",
+      "conteudo": "Tranquilidade e relaxamento no vale cercado de montanhas.",
+      "categoria": ["wifi", "massagem", "estacionamento"],
+      "id": "pousadaDescansoVale"
+    },
+    {
+      "titulo": "Pousada Encanto da Floresta",
+      "conteudo": "Relaxe na floresta com ar fresco e atividades ecológicas.",
+      "categoria": ["painéis solares", "spa", "wifi"],
+      "id": "pousadaEncantoFloresta"
+    },
+    {
+      "titulo": "Pousada Horizonte Verde",
+      "conteudo": "Ambiente natural com trilhas e vistas panorâmicas.",
+      "categoria": ["trilhas", "wifi", "estacionamento"],
+      "id": "pousadaHorizonteVerde"
+    },
+    {
+      "titulo": "Pousada Lua de Mel",
+      "conteudo": "Pousada charmosa e romântica para casais.",
+      "categoria": ["jantar romântico", "wifi", "banheira"],
+      "id": "pousadaLuaMel"
+    },
+    {
+      "titulo": "Pousada Aconchego Serrano",
+      "conteudo": "Perfeito para relaxar nas montanhas e curtir a lareira.",
+      "categoria": ["lareira", "netflix", "wifi"],
+      "id": "pousadaAconchegoSerrano"
+    },
+    {
+      "titulo": "Pousada Paraíso das Águas",
+      "conteudo": "Localizada à beira do lago com ambiente tranquilo.",
+      "categoria": ["wifi", "jacuzzi", "restaurante"],
+      "id": "pousadaParaisoAguas"
+    },
+    {
+      "titulo": "Pousada Alto das Montanhas",
+      "conteudo": "Refúgio perfeito com vista para as montanhas.",
+      "categoria": ["wifi", "sauna", "estacionamento"],
+      "id": "pousadaAltoMontanhas"
+    },
+    {
+      "titulo": "Pousada Refúgio do Campo",
+      "conteudo": "Experiência rural autêntica com atividades no campo.",
+      "categoria": ["jardim", "pet", "cafe"],
+      "id": "pousadaRefugioCampo"
+    },
+    {
+      "titulo": "Pousada Casa do Lago",
+      "conteudo": "Com área privativa ao redor do lago para relaxar.",
+      "categoria": ["netflix", "estacionamento", "wifi"],
+      "id": "pousadaCasaLago"
+    },
+    {
+      "titulo": "Pousada Sol Brilhante",
+      "conteudo": "Local perfeito para aproveitar o sol e o ar livre.",
+      "categoria": ["cafe", "wifi", "piscina"],
+      "id": "pousadaSolBrilhante"
+    },
+    {
+      "titulo": "Pousada Recanto da Montanha",
+      "conteudo": "Aproveite o melhor das montanhas com tranquilidade.",
+      "categoria": ["wifi", "sauna", "pet"],
+      "id": "pousadaRecantoMontanha"
+    },
+    {
+      "titulo": "Pousada do Rio",
+      "conteudo": "Rodeada de natureza com acesso a atividades ao ar livre.",
+      "categoria": ["atividades ao ar livre", "wifi", "spa"],
+      "id": "pousadaRio"
+    }
+  ]
+}
